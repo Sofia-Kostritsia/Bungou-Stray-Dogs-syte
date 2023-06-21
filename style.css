@@ -1,10 +1,18 @@
 @font-face {
     font-family: "Extra Condens";
+<<<<<<< HEAD
     src: url("../font/d_CCGloucester_MT_Extra_Condens.ttf") format("opentype");
   }
   @font-face {
     font-family: "Phenomena";
     src: url("../font/Phenomena-Bold.otf") format("opentype");
+=======
+    src: url("https://github.com/Sofia-Kostritsia/Bungou-Stray-Dogs-syte/blob/main/font/d_CCGloucester_MT_Extra_Condens.ttf") format("opentype");
+  }
+  @font-face {
+    font-family: "Phenomena";
+    src: url("font/Phenomena-Bold.otf") format("opentype");
+>>>>>>> 7697666cfbde8c9038a35e36f336744027158b92
   }
 body{
     background-image: url("../img/back\ \(1\).png");
