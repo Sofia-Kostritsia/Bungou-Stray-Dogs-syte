@@ -7,7 +7,7 @@
     src: url("font/Phenomena-Bold.otf") format("opentype");
 }
 body{
-    background-image: url("../img/back\ \(1\).png");
+    background-image: url("img/back\ \(1\).png");
     width: 99%;
     height: auto;
 }
@@ -48,7 +48,7 @@ p{
     font-family: JakobCTT;
     font-size: 56px;
     color: white;
-    background-image: url(../img/back\ \(1\).png);
+    background-image: url(img/back\ \(1\).png);
     border-radius: 50px;
     border: solid 4px rgba(0, 0, 0, 0.79);
 }
